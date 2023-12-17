@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rafi
+- 👋 Hi, I’m Rafi
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning C & C++
 - 💞️ I’m looking to collaborate on ...
